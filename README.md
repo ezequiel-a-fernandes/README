@@ -17,4 +17,5 @@ Sou estudante de ciências da computação na cruizeiro do sul, gosto muito de t
 
 ## 📫 Contato
 ezequielandradefernandes@gmail.com
+
 GttHub: https://github.com/ezequiel-a-fernandes  
