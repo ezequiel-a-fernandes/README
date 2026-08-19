@@ -3,7 +3,7 @@
 🎓 Estudante de Ciência da Computação  
 📍 São Paulo
 ---
-#📝Sobre mim
+# 📝Sobre mim
 Sou estudante de ciências da computação na cruizeiro do sul, gosto muito de tecnologia e desejo muito trabalhar na área
 
 ---
