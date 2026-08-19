@@ -16,6 +16,6 @@ Sou estudante de ciências da computação na cruizeiro do sul, gosto muito de t
 - Git & GitHub 
 
 ## 📫 Contato
-ezequielandradefernandes@gmail.com
+Email: ezequielandradefernandes@gmail.com
 
 GttHub: https://github.com/ezequiel-a-fernandes  
